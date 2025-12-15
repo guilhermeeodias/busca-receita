@@ -4,6 +4,8 @@ Um projeto simples que fiz para treinar React e TypeScript. O site consome a API
 
 > **Importante:** Como a API é internacional, as pesquisas devem ser feitas em **INGLÊS** (ex: *Chicken*, *Pie*, *Soup*, *Beef*).
 
+🥟 Faça o teste do site aqui: https://buscareceita.netlify.app/
+
 ## Funcionamento
 ![Demo do App](./src/assets/receita-gif.gif)
 
